@@ -255,18 +255,7 @@ e:
 
 ## 🎥 Vídeo Demonstrativo
 
-> 📹 **Link do vídeo no YouTube (não listado):** A inserir após a gravação.
-
-O vídeo deverá demonstrar, em até **4 minutos**:
-
-1. Estrutura do projeto;
-2. Leitura dos relatos;
-3. Extração dos sintomas;
-4. Consulta ao mapa de conhecimento;
-5. Transformação TF-IDF;
-6. Treinamento do classificador;
-7. Avaliação do modelo;
-8. Classificação de novas frases.
+> 📹 https://youtu.be/LX3oTGVqorA
 
 ---
 
