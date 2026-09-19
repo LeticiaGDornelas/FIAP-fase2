@@ -1,6 +1,8 @@
 <div align="center">
 
-<strong>FIAP — Faculdade de Informática e Administração Paulista</strong>
+<a href="https://www.fiap.com.br/">
+  <img alt="FIAP - Faculdade de Informática e Administração Paulista" src="assets/logo-fiap (2).png" width="160px">
+</a>
 
 </div>
 
@@ -14,11 +16,11 @@
 
 ## 👨‍🎓 Integrantes
 
-Laura de Andrade Castilho — RM568507
-Leticia Grossi Dornelas — RM568172
-Leonardo Borges Alves da Mota — RM566939
-Bernardo Naves Doti Avelar — RM566867
-David Eduardo da Silva Correia — RM567525
+- Laura de Andrade Castilho — RM568507
+- Leticia Grossi Dornelas — RM568172
+- Leonardo Borges Alves da Mota — RM566939
+- Bernardo Naves Doti Avelar — RM566867
+- David Eduardo da Silva Correia — RM567525
 
 ---
 
