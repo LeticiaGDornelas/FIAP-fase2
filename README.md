@@ -14,17 +14,21 @@
 
 ## 👨‍🎓 Integrantes
 
-- Leticia Grossi Dornelas — RM568172
+Laura de Andrade Castilho — RM568507
+Leticia Grossi Dornelas — RM568172
+Leonardo Borges Alves da Mota — RM566939
+Bernardo Naves Doti Avelar — RM566867
+David Eduardo da Silva Correia — RM567525
 
 ---
 
 ## 👩‍🏫 Professores
 
 ### Tutor(a)
-- A preencher
+- Ana Cristina dos Santos
 
 ### Coordenador(a)
-- A preencher
+- André Godoi Chiovato
 
 ---
 
